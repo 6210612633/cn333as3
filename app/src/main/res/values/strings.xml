@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cn333as3</string>
+    <string name="hint">input your number</string>
+    <string name="submit">submit</string>
+</resources>
